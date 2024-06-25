@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.bad3be64.css",
+    "main.js": "/website/static/js/main.c0f39703.js",
+    "static/media/house6.jpg": "/website/static/media/house6.462edd24eaf8541ea02f.jpg",
+    "static/media/banner1.webp": "/website/static/media/banner1.69f4f064c32d275af329.webp",
+    "static/media/nayaraipur.webp": "/website/static/media/nayaraipur.bad52235f791cb2cef44.webp",
+    "static/media/tatibandh.webp": "/website/static/media/tatibandh.cf2e4e2da01910baada5.webp",
+    "static/media/house8.jpg": "/website/static/media/house8.ce0263e221982d57ba1d.jpg",
+    "static/media/banner2.webp": "/website/static/media/banner2.fc0192e61f2edf372b42.webp",
+    "static/media/house9.jpg": "/website/static/media/house9.a1718fa85d7ff2a11a67.jpg",
+    "static/media/house10.jpg": "/website/static/media/house10.11aac81d7c929b996e6c.jpg",
+    "static/media/bhatagaon.webp": "/website/static/media/bhatagaon.0a574b93264450cc366c.webp",
+    "static/media/santoshiNagar.webp": "/website/static/media/santoshiNagar.6f322495a07d475981ed.webp",
+    "static/media/house7.jpg": "/website/static/media/house7.c24334cfeb60abba033d.jpg",
+    "static/media/amlidih.webp": "/website/static/media/amlidih.930727baa7134621d864.webp",
+    "static/media/sadduMowa.webp": "/website/static/media/sadduMowa.b0151719741f3e52c3a7.webp",
+    "static/media/gudhyari.webp": "/website/static/media/gudhyari.2fcfe345eb1f17629b36.webp",
+    "static/media/social.png": "/website/static/media/social.ea854ab10413f43fcc0d.png",
+    "static/media/telibandha.webp": "/website/static/media/telibandha.69d46d21da89e525691a.webp",
+    "static/media/shankarNagar.webp": "/website/static/media/shankarNagar.21108a31b4f558fbc841.webp",
+    "static/media/house5.jpg": "/website/static/media/house5.a7630d045d4464b62260.jpg",
+    "static/media/ddNagar.webp": "/website/static/media/ddNagar.30dcc58da0bd80f7826a.webp",
+    "static/media/favourite.png": "/website/static/media/favourite.af3c4f377f0183a60b62.png",
+    "static/media/login.png": "/website/static/media/login.7317edf9dda43a96dc4a.png",
+    "static/media/telephone.png": "/website/static/media/telephone.fb244201058d6b0c101c.png",
+    "static/media/raipurhome.webp": "/website/static/media/raipurhome.284afa6a254f5486f12f.webp",
+    "index.html": "/website/index.html",
+    "main.bad3be64.css.map": "/website/static/css/main.bad3be64.css.map",
+    "main.c0f39703.js.map": "/website/static/js/main.c0f39703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad3be64.css",
+    "static/js/main.c0f39703.js"
+  ]
+}
