@@ -1,0 +1,132 @@
+.home{
+    width: 100%;
+    margin-top: 60px;
+    height: 85vh;
+   display: flex;
+   justify-content: center;
+}
+.slider{
+    width:90%;
+    height: 75vh;
+    display: flex;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+.slider img{
+    width: 100%;
+    height: 90%;
+    animation: 10s slide infinite;
+}
+@keyframes slide{
+    0% {
+        transform: translateX(-100%);
+      }
+      
+      10% {
+        transform: translateX(0%);
+      }
+      55% {
+        transform: translateX(0%);
+      }
+      
+      60% {
+        transform: translateX(-100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+}
+
+/*-----search box-----*/
+
+.search-box{
+    position: absolute;
+    width: 70%;
+    height: 130px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px gray;
+    background: white;
+    top: 70%;
+    left: 15%;
+}
+.option{
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+    height: 50%;
+    border-bottom: 1px solid rgb(202, 202, 202);
+}
+.search-input{
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    height: 50%;
+}
+.search-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-place{
+    width: 15%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.input{
+    width: 60%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 95%;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px 0 0 10px;
+    border: hidden;
+    padding-left: 60px;
+    background-image: url("../../assets/search.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    outline: none;
+}
+.search-btns{
+    width: 25%;
+    height:100%;
+}
+
+/*-----option-----*/
+
+.option{
+    display: flex;
+    gap: 70px;
+    
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+.option p{
+    color: gray;
+}
+.option p:hover{
+    color: black;
+    cursor: pointer;
+}
+.search-btns{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.search-btns img{
+    width: 40px;
+}
+.search-btns  button{
+    background: #0078DB;
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    border: hidden;
+}

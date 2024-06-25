@@ -1,0 +1,80 @@
+.featured-con{
+    margin-top: 10px;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.slide-con{
+    width: 82%;
+    height: 70vh;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    background: #F0F9FF;
+    box-shadow: 0 5px 10px lightgray;
+    border-radius: 5px;
+}
+.featured-wrap{
+    width: 2100px;
+    flex-wrap: wrap;
+    height: 70vh;
+    gap: 10px;
+    
+    padding: 10px;
+    
+  transition: .3s;
+    display: flex;
+}
+.box{
+    width: 650px;
+    height: 30vh;
+    display: flex;
+    background: #ebeb90;
+    border-radius: 5px;
+}
+.plot{
+    width: 300px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    justify-content: center;
+    border-radius: 10px;
+}
+.plot img{
+    width: 106%;
+    height: 100%;
+    transition: .3s;
+}
+.plot img:hover{
+    width: 110%;
+    height: 110%;
+}
+.plot-details{
+    width: 50%;
+    height: 100%;
+    padding-left: 10px;
+    display: grid;
+    align-content: space-between;
+}
+.contact{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-content: flex-end;
+    gap: 10px;
+    align-items: flex-end;
+}
+.contact img{
+    width: 40px;
+}
+.slide-btn{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    gap: 1150px;
+}
